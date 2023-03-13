@@ -6,7 +6,7 @@ func add(x int, y int) int {
 	return x + y
 }
 
-func main() {
+func main5() {
 	sub := func(x int, y int) int {
 		return x - y
 	}
