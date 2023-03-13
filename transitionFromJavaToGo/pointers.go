@@ -10,8 +10,8 @@ func main() {
 	ptr = &greeting
 
 	fmt.Println("Greeting:", greeting)
-	fmt.Println("Address of greeting:", &greeting)
-	fmt.Println("Address of greeting:", ptr)
+	fmt.Println("Address of greeting via reference:", &greeting)
+	fmt.Println("Address of greeting via pointer name:", ptr)
 	fmt.Println("Accessig value via pointer:", *ptr)
 
 }
