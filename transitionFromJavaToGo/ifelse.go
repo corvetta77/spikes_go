@@ -28,7 +28,7 @@ func printParity_shorthandVariable(x int) {
 	fmt.Printf("%v is odd.\n", x)
 }
 
-func main() {
+func main6() {
 	y := 1231
 	x := 323232
 	printParity_ifElse(y)
