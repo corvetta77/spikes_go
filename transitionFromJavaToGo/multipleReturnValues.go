@@ -14,7 +14,7 @@ func rectangleWithNames(x int, y int) (area int, circumf int) {
 	return
 }
 
-func main() {
+func main6() {
 	x := 2
 	y := 3
 
