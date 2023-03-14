@@ -11,7 +11,7 @@ func area(x int, y int) (*int, error) {
 	return &area, nil
 }
 
-func main() {
+func main8() {
 	x := 3
 	y := 1
 	ar, err := area(x, y)
