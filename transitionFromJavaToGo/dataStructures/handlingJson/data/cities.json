@@ -1,0 +1,23 @@
+[
+  {
+    "id":"ldn",
+    "name":"London",
+    "hasBeach":false,
+    "hasMountain":false,
+    "tempC":23
+  },
+  {
+    "id":"bcn",
+    "name":"barcelona",
+    "hasBeach":true,
+    "hasMountain":false,
+    "tempC":30.5
+  },
+  {
+    "id":"nyc",
+    "name":"New York",
+    "hasBeach":true,
+    "hasMountain":false,
+    "tempC":28
+  }
+]
